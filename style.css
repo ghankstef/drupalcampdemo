@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper {
+	width: 960px;
+	float: left;
+	clear: both;
+}
